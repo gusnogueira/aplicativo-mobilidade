@@ -1,6 +1,7 @@
-# (Portfólio) - Aplicativo de mobilidade
+# Aplicativo de mobilidade utilizando React Native
 
-Este é um projeto pessoal cujo objetivo é servir de portfólio utilizando react-native-maps, react-native-google-places-autocomplete, react-native-geolocation, react-native-maps-directions e styled components para estilização.
+Esta é a base de um projeto pessoal cujo objetivo é servir de portfólio onde utilizo react-native-maps, react-native-google-places-autocomplete, react-native-geolocation, react-native-maps-directions para mapas e trajetos, e styled components para estilização.
+Posteriormente serão implementadas funcionalidades de envio e recebimento de mensagens, comunicação com a API para cálculo de preço dinâmico, além dos demais componentes visuais constantes na tela de configurações.
 
 ## 🚀 Utilização
 
